@@ -1,0 +1,7 @@
+C:\Users\Wojtek\source\repos\pracownik\pracownik\bin\Debug\pracownik.exe.config
+C:\Users\Wojtek\source\repos\pracownik\pracownik\bin\Debug\pracownik.exe
+C:\Users\Wojtek\source\repos\pracownik\pracownik\bin\Debug\pracownik.pdb
+C:\Users\Wojtek\source\repos\pracownik\pracownik\obj\Debug\pracownik.csprojAssemblyReference.cache
+C:\Users\Wojtek\source\repos\pracownik\pracownik\obj\Debug\pracownik.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\pracownik\pracownik\obj\Debug\pracownik.exe
+C:\Users\Wojtek\source\repos\pracownik\pracownik\obj\Debug\pracownik.pdb
